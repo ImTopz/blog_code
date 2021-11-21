@@ -3,6 +3,8 @@ title: pta_链表的插入排序
 date: 2021-11-20 17:57:36
 tags:
 ---
+
+```C++
 //实现一个简单的链表拼接
 void insertion_sort(LinkNode *&L)
 {
@@ -28,4 +30,6 @@ void insertion_sort(LinkNode *&L)
     }
     
 }
-第二次错误点在有序区的头指针 没有放在while里面更新
+//第二次错误点在有序区的头指针 没有放在while里面更新
+
+```
