@@ -205,7 +205,7 @@ custom_head: "<link href=\"https://googlefonts.wp-china-yes.net/css2?family=Noto
 
 # 自定义底部 HTML 内容（位于 footer 上方），注意不要和 `post: custom` 配置冲突
 # Customize the HTML content at the bottom (located above the footer), be careful not to conflict with `post: custom`
-custom_html: /css/font.css
+custom_html: /css/fonts.css
 
 # 网页访问统计
 # Analysis of website visitors
