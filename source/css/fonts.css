@@ -1,0 +1,26 @@
+
+.navbar-brand {
+  font-family: 'Noto Serif SC', serif;
+  font-weight: 900;
+  /* font-size: 1.15em; */
+}
+
+  html, body {
+    font-family: 'Noto Serif SC', serif;
+    font-weight: 500;
+
+    /* font-size: 24px; */
+  }
+
+   .markdown-body {
+    font-family: 'Noto Serif SC', serif;
+    font-weight: 500;
+    /* font-size: 19px; */
+  }
+
+  footer {
+    font-family: 'Noto Serif SC', serif;
+    font-weight: 400;
+    color: #b9b9b9;
+    font-size: 0.78em;
+  }
