@@ -1,6 +1,8 @@
+---
 title: ctf中的奇淫技巧-利用pearcmd进行LFI漏洞复现
 date: 2022-1-12 16:19:21
 tags:
+---
 第一题的write up如下:
 先放flag
 
