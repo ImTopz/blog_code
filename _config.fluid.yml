@@ -201,7 +201,8 @@ custom_css: '/css/fonts.css'
 
 # 自定义 <head> 节点中的 HTML 内容
 # Customize <head> HTML content
-custom_head: "<link href=\"https://googlefonts.wp-china-yes.net/css2?family=Noto+Serif+SC:wght@200;300;400;500;600;700;900\" rel=\"stylesheet\" media=\"print\" onload=\"this.media='all'\">"
+custom_head: "<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id: "JZCYmEC9O7qA6SAD",ck: "JZCYmEC9O7qA6SAD"})</script><link href=\"https://googlefonts.wp-china-yes.net/css2?family=Noto+Serif+SC:wght@200;300;400;500;600;700;900\" rel=\"stylesheet\" media=\"print\" onload=\"this.media='all'\">"
 
 # 自定义底部 HTML 内容（位于 footer 上方），注意不要和 `post: custom` 配置冲突
 # Customize the HTML content at the bottom (located above the footer), be careful not to conflict with `post: custom`
