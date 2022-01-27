@@ -14,3 +14,4 @@ Please specify device / core. <Default>: STM51FXXX
 进行一个默认设备的选择
 然后如果没有多个设备可以直接回车来确定，这里可以通过Ulink来查看是否识别到了板子的内核，如果识别到了可以继续操作，没识别到的话就要看一下是不是引脚坏了或者是接的线路不对，如果确认都没问题的话可以考虑是不是flash写入保护的问题。
 连接成功后打开Keil5的debug，选择settings,模式选择Jlink/J-Trace，方式根据实际情况选择是Jtag还是SWD，我这里是SWD，选择后观察右侧是否显示出来SW Device的SWD id。
+希望以后不要再踩坑
