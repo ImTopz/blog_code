@@ -110,7 +110,7 @@ deploy:
 plugin:
 - hexo-generator-feed
 #Feed Atom
-feed:idis.ink
+feed: idis.ink
 type: atom
 path: atom.xml
 limit: 20
