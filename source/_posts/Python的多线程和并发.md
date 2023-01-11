@@ -2,6 +2,7 @@
 title: Python的多线程和并发框架
 date: 2023-1-11 17:00:00
 tags: 学习
+categories: python学习
 ---
 
 # Python多线程下的GIL
