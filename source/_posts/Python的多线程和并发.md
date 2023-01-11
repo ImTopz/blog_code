@@ -18,12 +18,6 @@ tags: 学习
 
 3.释放GIL
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d046bea-00df-44b9-9341-8e8da2255dd6/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6c6b589e-5b7d-4296-bfe1-598d2f08a76b/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ebfbe395-563b-4ff7-a77a-f0b9e2929a15/Untitled.png)
-
 参考代码:
 
 ```python
