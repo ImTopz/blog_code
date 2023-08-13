@@ -1,5 +1,5 @@
 ---
-title: about
+title: 后记
 date: 2023-01-11 17:01:09
 ---
 # zder的编程星球
@@ -10,5 +10,7 @@ date: 2023-01-11 17:01:09
 **理念：Builders make the world better,Knowledge should be shared**
 
 **开放、自由、共进**
+
+联系方式: topz_z@163.com
 
 
